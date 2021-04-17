@@ -1,1 +1,1 @@
-# logica_programacao
+# projeto_logica_programacao
