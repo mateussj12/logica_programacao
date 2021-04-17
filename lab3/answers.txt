@@ -1,0 +1,47 @@
+sort1 uses: Bubble Sort
+How do you know?:
+-Time
+    -Sorted
+        -5000: 0m0.009s
+        -10000: 0m0.400s
+        -50000: 0m4.051s
+    -Random
+        -5000: 0m0.073s
+        -10000: 0m0.513s
+        -50000: 0m17.610s
+    -Reversed
+        -5000: 0m0.053s
+        -10000: 0m0.396s
+        -50000: 0m12.992s
+
+sort2 uses: Merge Sort
+How do you know?:
+-Time
+    -Sorted
+        -5000: 0m0.013s
+        -10000: 0m0.083s
+        -50000: om3.678s
+    -Random
+        -5000: 0m0.016s
+        -10000: 0m0.042s
+        -50000: 0m7.570s
+    -Reversed
+        -5000: 0m0.015s
+        -10000: 0m0.090s
+        -50000: 0m4.004s
+
+sort3 uses: Selection Sort
+How do you know?:
+-Time
+    -Sorted
+        -5000: 0m0.032s
+        -10000: 0m0.218s
+        -50000: 0m7.570s
+    -Random
+        -5000: 0m0.077s
+        -10000: 0m0.220s
+        -50000: 0m7.849s
+    -Reversed
+        -5000: 0m0.034s
+        -10000: 0m0.234s
+        -50000: 0m7.670s
